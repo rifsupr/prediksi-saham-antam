@@ -48,7 +48,7 @@ Penelitian menggunakan data historis saham ANTM yang diperoleh dari Bursa Efek I
 | Model | MAE | RMSE | MAPE | R² |
 |---------|---------|---------|---------|---------|
 | XGBoost | 52,35 | 69,42 | 3,06% | 0,8624 |
-| LSTM | 60,63 | 75,61 | 3,30% | 0,8367 |
+| LSTM | 60,63 | 75,61 | 3,31% | 0,8367 |
 
 ## Kesimpulan
 
